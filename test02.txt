@@ -1,0 +1,1 @@
+First string added in test02.txt
